@@ -1,0 +1,56 @@
+Oct 17 18:15:01 nshipman-kernel-dev CRON[2682853]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 18:17:01 nshipman-kernel-dev CRON[2682878]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Oct 17 18:25:01 nshipman-kernel-dev CRON[2682938]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 18:35:02 nshipman-kernel-dev CRON[2683056]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 18:45:01 nshipman-kernel-dev CRON[2683168]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 18:55:01 nshipman-kernel-dev CRON[2683313]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 19:05:01 nshipman-kernel-dev CRON[2683450]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 19:15:01 nshipman-kernel-dev CRON[2683621]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 19:17:01 nshipman-kernel-dev CRON[2683655]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Oct 17 19:25:01 nshipman-kernel-dev CRON[2683775]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 19:35:01 nshipman-kernel-dev CRON[2683918]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 19:45:01 nshipman-kernel-dev CRON[2684058]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 19:55:01 nshipman-kernel-dev CRON[2684178]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 20:05:01 nshipman-kernel-dev CRON[2684316]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 20:11:56 nshipman-kernel-dev systemd[1]: fwupd.service: Succeeded.
+Oct 17 20:15:01 nshipman-kernel-dev CRON[2684485]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 20:17:01 nshipman-kernel-dev CRON[2684520]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Oct 17 20:25:01 nshipman-kernel-dev CRON[2684644]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 20:35:01 nshipman-kernel-dev CRON[2684799]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 20:45:01 nshipman-kernel-dev CRON[2684930]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 20:55:01 nshipman-kernel-dev CRON[2685084]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 21:05:01 nshipman-kernel-dev CRON[2685229]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 21:15:01 nshipman-kernel-dev CRON[2685348]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 21:17:01 nshipman-kernel-dev CRON[2685374]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Oct 17 21:22:46 nshipman-kernel-dev dnsmasq[923]: reading /etc/resolv.conf
+Oct 17 21:22:46 nshipman-kernel-dev dnsmasq[923]: using nameserver 127.0.0.53#53
+Oct 17 21:25:01 nshipman-kernel-dev CRON[2685475]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 21:35:01 nshipman-kernel-dev CRON[2685616]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 21:45:01 nshipman-kernel-dev CRON[2685772]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 21:55:01 nshipman-kernel-dev CRON[2685909]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 22:05:01 nshipman-kernel-dev CRON[2686056]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 22:15:01 nshipman-kernel-dev CRON[2686186]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 22:17:01 nshipman-kernel-dev CRON[2686215]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Oct 17 22:25:01 nshipman-kernel-dev CRON[2686320]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 22:35:01 nshipman-kernel-dev CRON[2686453]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 22:45:01 nshipman-kernel-dev CRON[2686611]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Oct 17 22:51:00 nshipman-kernel-dev systemd[2686722]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Oct 17 22:51:00 nshipman-kernel-dev systemd[2686722]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Oct 17 22:51:00 nshipman-kernel-dev systemd[2686722]: Listening on GnuPG cryptographic agent and passphrase cache.
+Oct 17 22:51:00 nshipman-kernel-dev systemd[2686722]: Listening on debconf communication socket.
+Oct 17 22:51:00 nshipman-kernel-dev systemd[2686722]: Listening on Sound System.
+Oct 17 22:51:00 nshipman-kernel-dev systemd[2686722]: Listening on REST API socket for snapd user session agent.
+Oct 17 22:51:00 nshipman-kernel-dev systemd[2686722]: Listening on D-Bus User Message Bus Socket.
+Oct 17 22:51:00 nshipman-kernel-dev systemd[2686722]: Reached target Sockets.
+Oct 17 22:51:00 nshipman-kernel-dev systemd[2686722]: Reached target Basic System.
+Oct 17 22:51:00 nshipman-kernel-dev systemd[1]: Started User Manager for UID 1000.
+Oct 17 22:51:00 nshipman-kernel-dev systemd[1]: Started Session 23264 of user nshipman.
+Oct 17 22:51:00 nshipman-kernel-dev systemd[2686722]: Starting Sound Service...
+Oct 17 22:51:01 nshipman-kernel-dev dbus-daemon[620]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.858' (uid=1000 pid=2686735 comm="/usr/bin/pulseaudio --daemonize=no --log-target=jo" label="unconfined")
+Oct 17 22:51:01 nshipman-kernel-dev systemd[1]: Condition check resulted in Bluetooth service being skipped.
+Oct 17 22:51:01 nshipman-kernel-dev rtkit-daemon[886]: Supervising 0 threads of 0 processes of 1 users.
+Oct 17 22:51:01 nshipman-kernel-dev rtkit-daemon[886]: message repeated 4 times: [ Supervising 0 threads of 0 processes of 1 users.]
+Oct 17 22:51:01 nshipman-kernel-dev systemd[2686722]: Started D-Bus User Message Bus.
+Oct 17 22:51:01 nshipman-kernel-dev dbus-daemon[2686755]: [session uid=1000 pid=2686755] AppArmor D-Bus mediation is enabled
+Oct 17 22:51:01 nshipman-kernel-dev systemd[2686722]: Started Sound Service.
+Oct 17 22:51:01 nshipman-kernel-dev systemd[2686722]: Reached target Main User Target.
