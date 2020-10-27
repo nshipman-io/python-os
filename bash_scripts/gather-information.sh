@@ -1,11 +1,12 @@
 #!/bin/bash
 
-echo "Starting at: $(date)"; echo
+line="-----------------------------"
+echo "Starting at: $(date)"; echo $line
 
-echo "UPTIME"; uptime; echo
+echo "UPTIME"; uptime; echo $line
 
-echo "FREE"; sysctl -a | awk '/hw./' && '/mem/'; echo
+echo "FREE"; sysctl -a | awk '/hw./' && '/mem/'; echo $line
 
-echo "WHO"; who; echo
+echo "WHO"; who; echo $line
 
 echo "Finishing at: $(date)"
